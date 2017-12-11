@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: PortalDeneme
+name: JIT PORTAL
 
 # Short bio or description (displayed in the header)
-description: Portal for dd
+description: Just in Time Team Portal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/betulp/PortalDeneme/blob/master/avatar.jpg
 
 #
 # Flags below are optional
@@ -21,13 +21,13 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: betulp/PortalDeneme
+  instagram: https://www.instagram.com/jitag_2018/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: 
+  stackoverflow: # your stackoverflow profile,
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
